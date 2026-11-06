@@ -18,8 +18,8 @@ public_subnet_cidrs = [
 ]
 
 private_subnet_cidrs = [
-  "10.50.10.0/23",
-  "10.50.12.0/23"
+  "10.50.10.0/28",
+  "10.50.11.0/28"
 ]
 
 project_tag = "vpc-lab"
